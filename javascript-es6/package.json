@@ -4,7 +4,7 @@
   "description": "Projeto para estudos sobre javascript es6 da rocketseat",
   "main": "index.js",
   "scripts": {
-    "dev": "babel ./index.js -o bundle.js"
+    "dev": "babel ./index.js -o bundle.js -w"
   },
   "author": "Jaime Barbosa",
   "license": "MIT",
