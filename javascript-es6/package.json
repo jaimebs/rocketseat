@@ -1,0 +1,16 @@
+{
+  "name": "javascript-es6",
+  "version": "1.0.0",
+  "description": "Projeto para estudos sobre javascript es6 da rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "babel ./index.js -o bundle.js"
+  },
+  "author": "Jaime Barbosa",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0"
+  }
+}
